@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is
+# Dan
+
+- ⚡ Fun fact: bears beets battle star galactica
+
 <!--
 **everybodydanz/everybodydanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
